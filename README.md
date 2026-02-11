@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Trung Nguyen</h1>
+<h3 align="center">Full-Stack Developer</h3>
 
-<!--
-**trumk/trumk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I build scalable backend systems and modern web, mobile applications.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 Currently building fintech & e-wallet systems
+- 📱 Mobile development with React Native (Expo)
+- 🧠 Backend architecture with Node.js & Express
+- 💾 Working with MongoDB & REST APIs
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- Email: trung22.nx@email.com
+- LinkedIn: linkedin.com/in/trung-nguyễn-7074a72a9
+
+---
+
+<p align="center">
+  ⭐️ From Trung Nguyen – Building scalable & secure systems
+</p>
