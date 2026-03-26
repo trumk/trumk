@@ -38,7 +38,3 @@
 - LinkedIn: linkedin.com/in/trung-nguyễn-7074a72a9
 
 ---
-
-<p align="center">
-  ⭐️ From Trung Nguyen – Building scalable & secure systems
-</p>
