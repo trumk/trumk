@@ -10,7 +10,6 @@
 ## 🚀 About Me
 
 - 🔭 Currently building fintech & e-wallet systems
-- 📱 Mobile development with React Native (Expo)
 - 🧠 Backend architecture with Node.js & Express
 - 💾 Working with MongoDB & REST APIs
 
